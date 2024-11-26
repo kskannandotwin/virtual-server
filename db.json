@@ -1,14 +1,12 @@
-[
-  {
-    "id": 1,
-    "name": "Kannan",
-    "age": 25,
-    "isEditing": true
-  },
-  {
-    "id": 2,
-    "name": "Janani",
-    "age": 15,
-    "isEditing": true
-  }
-]
+{
+  "tableData": [
+    {
+      "name": "Alice",
+      "age": 25
+    },
+    {
+      "name": "Bob",
+      "age": 30
+    }
+  ]
+}
